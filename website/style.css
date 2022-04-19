@@ -1,0 +1,32 @@
+.container{
+    margin: 0 auto;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.background{
+    background-image: url(https://pm1.narvii.com/7017/87c96c98271d8af800cfcc41300a8fd5d00ff021r1-720-1280v2_hq.jpg);
+}
+
+
+
+.background2{
+    background-color: rgb(255, 200, 200);
+}
+
+.image{
+    position: relative;
+    left: 610px;
+    right: 170px;
+    padding: 0;
+}
+
+.image2{
+    position: relative;
+    left: 1050px;
+    right: 50px;
+    padding: 0;
+}
+
+
+
